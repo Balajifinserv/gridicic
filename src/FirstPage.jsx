@@ -37,7 +37,7 @@ function FirstPage() {
       <img src={myImage} alt="Description of the image" />
       <h1 className="text-lg font-bold mb-4 flex items-center text-blue-910">
         <MdLock className="mr-2 text-orange-500" />
-        WelcometoI ABCDE Reward Point
+        Welcome To ICICI Reward Point
       </h1>
       <form onSubmit={handleSubmit}>
         <div className="mb-4">
